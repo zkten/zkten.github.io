@@ -57,3 +57,56 @@
 [0617/102247:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0617/103519:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
 [0617/104012:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0617/122602:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/122621:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/122744:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/123100:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/123108:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/123302:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/124333:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/124334:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/124337:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/124341:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/124628:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/124820:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/141407:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/142244:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0617/142946:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/143159:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/143431:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/150044:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/150345:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/150345:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/152626:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/152741:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/153015:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/183016:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/203235:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/203240:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/203241:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/203241:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/204833:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/210050:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/211025:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/211033:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/212746:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/213629:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/214415:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/214649:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/214810:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/215200:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/215943:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/220216:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/220716:ERROR:webrtcsession.cc(1226)] ConnectDataChannel called when data_channel_ is NULL.
+[0617/220716:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0617/220718:ERROR:webrtcsession.cc(1226)] ConnectDataChannel called when data_channel_ is NULL.
+[0617/220718:WARNING:mediasession.cc(353)] Duplicate id found. Reassigning from 101 to 127
+[0617/220719:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[029C8EE8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0617/220719:WARNING:p2ptransportchannel.cc(415)] Jingle:Port[029C95C0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0617/220719:WARNING:stunport.cc(385)] Jingle:Port[02964890:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0617/220818:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/220819:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0617/220820:INFO:socket_host_udp.cc(360)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[0617/220820:INFO:socket_host_udp.cc(360)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[0617/220820:INFO:socket_host_udp.cc(360)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
+[0617/220821:INFO:socket_host_udp.cc(360)] sendto() has failed twice returning a  transient error net::ERR_ADDRESS_UNREACHABLE. Dropping the packet.
